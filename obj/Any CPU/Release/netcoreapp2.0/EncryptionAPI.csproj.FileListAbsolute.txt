@@ -1,0 +1,11 @@
+C:\Users\Roy\source\repos\EncryptionAPI\bin\Any CPU\Release\netcoreapp2.0\EncryptionAPI.deps.json
+C:\Users\Roy\source\repos\EncryptionAPI\bin\Any CPU\Release\netcoreapp2.0\EncryptionAPI.runtimeconfig.json
+C:\Users\Roy\source\repos\EncryptionAPI\bin\Any CPU\Release\netcoreapp2.0\EncryptionAPI.runtimeconfig.dev.json
+C:\Users\Roy\source\repos\EncryptionAPI\bin\Any CPU\Release\netcoreapp2.0\EncryptionAPI.dll
+C:\Users\Roy\source\repos\EncryptionAPI\bin\Any CPU\Release\netcoreapp2.0\EncryptionAPI.pdb
+C:\Users\Roy\source\repos\EncryptionAPI\obj\Any CPU\Release\netcoreapp2.0\EncryptionAPI.csprojResolveAssemblyReference.cache
+C:\Users\Roy\source\repos\EncryptionAPI\obj\Any CPU\Release\netcoreapp2.0\EncryptionAPI.csproj.CoreCompileInputs.cache
+C:\Users\Roy\source\repos\EncryptionAPI\obj\Any CPU\Release\netcoreapp2.0\EncryptionAPI.AssemblyInfoInputs.cache
+C:\Users\Roy\source\repos\EncryptionAPI\obj\Any CPU\Release\netcoreapp2.0\EncryptionAPI.AssemblyInfo.cs
+C:\Users\Roy\source\repos\EncryptionAPI\obj\Any CPU\Release\netcoreapp2.0\EncryptionAPI.dll
+C:\Users\Roy\source\repos\EncryptionAPI\obj\Any CPU\Release\netcoreapp2.0\EncryptionAPI.pdb
